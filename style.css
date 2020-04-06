@@ -19,6 +19,6 @@ a[href^="https://www.link-group.eu/"] {
     color: yellow;
 }
 
-body>p:last-child:hover{
+body>p:last-of-type:hover {
     font-style: italic;
 }
